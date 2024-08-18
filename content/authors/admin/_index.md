@@ -45,7 +45,7 @@ profiles:
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
     url:  https://orcid.org/0000-0002-4161-5189
-  - icon: academicons/research-gate
+  - icon: '' #academicons/research-gate
     url:  https://www.researchgate.net/profile/Ryan_Brady13
 
 interests:
@@ -146,7 +146,7 @@ skills:
       - name: DnD
         description: ''
         percent: 80
-        icon: sword
+        icon: ''
 
 languages:
   - name: English
@@ -161,7 +161,7 @@ awards:
     url: https://www.ucl.ac.uk/physics-astronomy/sites/physics_astronomy/files/physics_and_astronomy_annual_review_2021_-22_web_v2.pdf
     date: ''
     awarder: Capgemini & Physics and Astronomy UCL
-    icon: coursera
+    icon: ''
     summary: |
       For the Best Use of Software in a Final Year (Astro)Physics Project.
   - title: 'Huggins Prize'
@@ -175,7 +175,7 @@ awards:
     url: https://www.ucl.ac.uk/physics-astronomy/sites/physics_astronomy/files/pa_annual_review_2021_webfinal.pdf
     date: '2023-01-21'
     awarder: UCL
-    icon: UCL
+    icon: ''
     summary: |
       The Dean’s list commends outstanding academic performance by graduating students, equivalent to the top 5% of student achievement.
 ---

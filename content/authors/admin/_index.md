@@ -45,7 +45,7 @@ profiles:
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
     url:  https://orcid.org/0000-0002-4161-5189
-  - icon: '' #academicons/research-gate
+  - icon: 'assets/media/icons/ResearchGate_icon'
     url:  https://www.researchgate.net/profile/Ryan_Brady13
 
 interests:
@@ -54,7 +54,7 @@ interests:
   - Computational Physics
 
 education:
-  - area: PhD Theoretical Molecular Spectroscopy
+  - area: PhD Theoretical Molecular Spectroscopy (ongoing)
     institution: University College London
     date_start: 2021-09-21
     date_end: 2025-09-15
@@ -182,4 +182,6 @@ awards:
 
 ## About Me
 
-Ryan Brady is a Astrophysics graduate and current PhD student at UCL. His research interests include non-adiabatic dynamics for nuclear motion, high resolution molecular spectrocopy, data modelling, and integration of computational physics amongst theory. 
+Hi! I am a Astrophysics graduate and current PhD student at UCL. My research interests include non-adiabatic dynamics for nuclear motion, high resolution molecular spectrocopy, data modelling, and the integration of computational physics with theoretical frameworks.
+
+My hobbies include music, which I love, and I have played guitar for 11 years now. I also love to hike around the UK, and get a bit of fresh air!

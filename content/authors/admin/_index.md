@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Theoretical Molecular Spectroscopy
     institution: University College London
-    date_start: 21-09-2021
-    date_end: 15-09-2025
+    date_start: 2021-09-21
+    date_end: 2025-09-15
     summary: |
       Thesis on _Non Adiabatic Dynamics of Nuclear Motion for Diatomic Molecules_. Supervised by [Prof. Sergei N. Yurchenko] and [Prof. Jonathan Tennyson]. Presented papers at 8 molecular spectroscopy conferences with the contributions being published in PCCP and JCTC. Other papers I co-authored were published in Nature, MNRAS and A&A.
     button:
@@ -65,8 +65,8 @@ education:
       url: 'https://www.researchgate.net/profile/Ryan_Brady13'
   - area: MSci Astrophysics
     institution: University College London
-    date_start: 21-09-2017
-    date_end: 13-06-2021
+    date_start: 2017-09-21
+    date_end: 2021-06-13
     summary: |
       Degree: 1<sup>st</sup> class
 

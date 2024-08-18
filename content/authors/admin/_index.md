@@ -170,7 +170,7 @@ awards:
     awarder: UCL
     icon: UCL
     summary: |
-    Best performance in 2nd year astrophysics, UCL Dpeartment of Physics and Astronomy.
+       Best performance in 2nd year astrophysics, UCL Dpeartment of Physics and Astronomy.
   - title: Deans List
     url: https://www.ucl.ac.uk/physics-astronomy/sites/physics_astronomy/files/pa_annual_review_2021_webfinal.pdf
     date: '2023-01-21'

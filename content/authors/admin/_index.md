@@ -45,7 +45,7 @@ profiles:
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
     url:  https://orcid.org/0000-0002-4161-5189
-  - icon: 'assets/media/icons/ResearchGate_icon'
+  - icon: ResearchGate_icon
     url:  https://www.researchgate.net/profile/Ryan_Brady13
 
 interests:
@@ -87,7 +87,7 @@ education:
       - Galaxy Dynamics
       - Interstellar Physics
       - Special and General Relativity
-  - area: A-Levels (A,A,A) in Physics, Biology, and Maths
+  - area: A-Levels in Physics (A), Biology (A), and Maths (A)
     institution: Mayfield Grammar School
     date_start: 2015-09-21
     date_end: 2017-06-15

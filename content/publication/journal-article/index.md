@@ -21,7 +21,7 @@ abstract: The (time-independent) Schrödinger equation for atomistic systems is 
 summary: This study demonstrates the numerical equivalence between adiabatic and diabatic approaches for solving the Schrödinger equation in diatomic molecules. Using yttrium oxide and carbon monohydride, it highlights the importance of including both diagonal Born–Oppenheimer corrections and nonadiabatic couplings for accurate rovibronic calculations whereby energies and wavefunctions are shown to be equivalent between the two representations.
 
 tags:
-- Source Themes
+- Non-Adiabatic Interactions
 featured: true
 
 # Featured image
@@ -45,13 +45,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!-- 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+The **Supporting Information** for this publication is available free of charge [here](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01150).

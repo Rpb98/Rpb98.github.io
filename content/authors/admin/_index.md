@@ -87,12 +87,12 @@ education:
       - Galaxy Dynamics
       - Interstellar Physics
       - Special and General Relativity
-- area: A-Levels (A,A,A) in Physics, Biology, and Maths
-    institution: Mayfield Grammar School
-    date_start: 2015-09-21
-    date_end: 2017-06-15
-    summary: |
-      I achieved an A in A-level Physics, Biology, and Maths and also a B in psychology at As level. I was the Biology prefect and enjoyed science so much I persued it at university till this day!
+# - area: A-Levels (A,A,A) in Physics, Biology, and Maths
+#     institution: Mayfield Grammar School
+#     date_start: 2015-09-21
+#     date_end: 2017-06-15
+#     summary: |
+#       I achieved an A in A-level Physics, Biology, and Maths and also a B in psychology at As level. I was the Biology prefect and enjoyed science so much I persued it at university till this day!
 # work:
 #   - position: ORBYTS tutor
 #     company_name: ORBYTS

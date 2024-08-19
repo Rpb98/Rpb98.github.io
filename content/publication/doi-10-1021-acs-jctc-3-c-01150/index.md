@@ -14,5 +14,5 @@ publication: '*Journal of Chemical Theory and Computation*'
 doi: 10.1021/acs.jctc.3c01150
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acs.jctc.3c01150 '
+  url: https://doi.org/10.1021/acs.jctc.3c01150
 ---

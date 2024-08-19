@@ -148,7 +148,7 @@ skills:
       - name: Guitar
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: 🎸
       - name: Hiking
         description: ''
         percent: 60
@@ -156,11 +156,11 @@ skills:
       - name: DnD
         description: ''
         percent: 80
-        icon: ''
+        icon: 'shield'
 
-languages:
-  - name: English
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

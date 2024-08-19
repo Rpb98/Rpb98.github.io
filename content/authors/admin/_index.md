@@ -52,6 +52,7 @@ interests:
   - Theoretical Molecular Spectroscopy
   - Non-Adiabatic Molecular Dynamics
   - Computational Physics
+  - Outreach
 
 education:
   - area: PhD Theoretical Molecular Spectroscopy (ongoing)
@@ -86,18 +87,24 @@ education:
       - Galaxy Dynamics
       - Interstellar Physics
       - Special and General Relativity
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+- area: A-Levels (A,A,A) in Physics, Biology, and Maths
+    institution: Mayfield Grammar School
+    date_start: 2015-09-21
+    date_end: 2017-06-15
+    summary: |
+      I achieved an A in A-level Physics, Biology, and Maths and also a B in psychology at As level. I was the Biology prefect and enjoyed science so much I persued it at university till this day!
+work:
+  - position: ORBYTS tutor
+    company_name: ORBYTS
+    company_url: 'https://www.orbyts.org/'
+    company_logo: ''
+    date_start: 2022-01-01
+    date_end: '2025-04-01'
+    summary: |2-
+      Responsibilities include:
+      - Fascilitated the 
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #   - position: Backend Software Engineer
 #     company_name: X
 #     company_url: ''

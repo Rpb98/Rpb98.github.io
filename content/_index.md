@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Polygon_Luminary_2.svg
+          filename: Polygon_Luminary_3.svg
           filters:
             brightness: 1.0
           size: cover

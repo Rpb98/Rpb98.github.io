@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Polygon_Luminary_3.svg
+          filename: Polygon_Luminary_2.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a PhD student with the ExoMol group at UCL, specializing in untangling "spaghetti" curves in the adiabatic representation of nuclear dynamics. My research focuses on studying non-adiabatic interactions, particularly those induced by non-Born-Oppenheimer and Spin-Orbit dynamics. A key achievement during my PhD has been developing a theoretical and computational framework for extracting a smooth and intuitive diabatic representation for an arbitrary number of coupled electronic states.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        In addition to my research, I am "Mr. Sulfur Monoxide" within ExoMol. I have developed an IR/Vis line list for sulfur monoxide (SO) during my MSci and PhD projects. The SOLIS line list was used in atmospheric retrievals of the hot Jupiter exoplanet WASP-39b using JWST data. This work has led to the detection of SO in the exoplanet’s atmosphere, alongside the discovery of SO2.
         
-        Please reach out to collaborate 😃
+        Please feel free to reach out for collaborations or discussions on related topics 😃
     design:
       columns: '1'
   - block: collection

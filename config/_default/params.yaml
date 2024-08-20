@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Ryan Brady. This work is licensed under {license}'
+    notice: '© {year} Ryan Brady. This work is licensed under {license}. Free SVG Background by <a target="_blank" href="https://bgjar.com">BGJar</a>'
     license:
       enable: true
       allow_derivatives: false

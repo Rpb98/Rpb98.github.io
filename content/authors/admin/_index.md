@@ -54,9 +54,9 @@ interests:
   - Computational Physics
   - Outreach
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 education:
   - area: PhD Theoretical Molecular Spectroscopy (ongoing)
@@ -152,7 +152,7 @@ skills:
       - name: Guitar
         description: ''
         percent: 100
-        icon: 🎸
+        icon: <i class="fa-solid fa-guitar"></i>
       - name: Hiking
         description: ''
         percent: 60

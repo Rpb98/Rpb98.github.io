@@ -146,13 +146,11 @@ skills:
         percent: 100
         icon: circle-stack
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Guitar
         description: ''
         percent: 100
-        icon: <i class="fa-solid fa-guitar"></i>
+        icon: fa-guita
       - name: Hiking
         description: ''
         percent: 60
@@ -161,6 +159,10 @@ skills:
         description: ''
         percent: 80
         icon: 'shield'
+      - name: plants
+        description: ''
+        percent: 80
+        icon: plant
 
 # languages:
 #   - name: English

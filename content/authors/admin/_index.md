@@ -54,6 +54,10 @@ interests:
   - Computational Physics
   - Outreach
 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
+
 education:
   - area: PhD Theoretical Molecular Spectroscopy (ongoing)
     institution: University College London

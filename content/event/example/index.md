@@ -38,15 +38,15 @@ image:
 # button:
 #   text: Download Poster
 #   url: uploads/Omega_Talk.pdf
-links:
+# links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-# url_code: 'https://github.com'
-  url_pdf: uploads/Omega_Talk.pdf
-# url_slides: 'https://slideshare.net'
-# url_video: 'https://youtube.com'
+url_code: 'https://github.com'
+url_pdf: uploads/Omega_Talk.pdf
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

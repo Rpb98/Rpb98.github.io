@@ -1,5 +1,5 @@
 ---
-title: A true Ω-representation as an adiabatic transformation of spin-orbit interactions and their associated non-adiabatic couplings
+title: Poster Presentation
 
 event: 27th international symposium on High Resolution Molecular Spectorscopy (HRMS)
 event_url: https://eventi.unibo.it/hrms-2024-bologna
@@ -43,10 +43,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: uploads/Omega_Talk.pdf
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_code: 'https://github.com'
+url_pdf: uploads/OMEGA_rep_poster.pdf
+# url_slides: 'https://slideshare.net'
+# url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
